@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'am Enzo Fernando
+Estudiante de programación
 
 <!--
 **enzojason/enzojason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
