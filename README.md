@@ -1,7 +1,8 @@
 ## Hi there 👋
-I'am Enzo Fernando
+I'am Enzo Fernando, 
 Estudiante de programación
 
+**Interesado en aprender técnicas y saber como funcionan ciertos algoritmos**
 <!--
 **enzojason/enzojason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
